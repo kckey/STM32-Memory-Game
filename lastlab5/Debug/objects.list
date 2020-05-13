@@ -1,0 +1,5 @@
+"src/main.o"
+"src/stm476DISCO-joystick.o"
+"src/stm476DISCO-leds.o"
+"startup/startup_stm32.o"
+"startup/sysmem.o"
